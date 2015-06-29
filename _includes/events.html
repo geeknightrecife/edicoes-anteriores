@@ -1,0 +1,18 @@
+<div id="archive">
+  <div class="wrap">
+    <div class="large-12 columns">
+      <h2>Eventos</h2>
+      <ul class="grid small-block-grid-3 large-block-grid-6">
+        {% for event in site.data.events %}
+        <li>
+          <a href="{{event.url}}" target="_blank" class="{% if event.past %}past{% else %}next{% endif %}">
+            <div class="month"> {{event.month}} </div>
+            <div class="day"> {{event.day}} </div>
+            <div class="year"> {{event.year}} </div>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,75 @@
+# Next Events
+
+# - url: 
+#   day: 
+#   month: 
+#   year: 
+#   past: false
+
+# Past Events
+
+- url: http://geeknightrecife.github.io/outubro2014/
+  day: 04
+  month: Novembro
+  year: 2014
+  past: true
+
+- url: http://geeknightrecife.github.io/setembro2014/
+  day: 30
+  month: Setembro
+  year: 2014
+  past: true
+
+- url: http://geeknightrecife.github.io/agosto2014/
+  day: 26
+  month: Agosto
+  year: 2014
+  past: true
+
+- url: http://geeknightrecife.github.io/julho2014/
+  day: 23
+  month: Julho
+  year: 2014
+  past: true
+
+- url: http://geeknightrecife.github.io/junho2014/
+  day: 01
+  month: Julho
+  year: 2014
+  past: true
+
+- url: http://geeknightrecife.github.io/maio2014/
+  day: 27
+  month: Maio
+  year: 2014
+  past: true
+
+- url: http://geeknightrecife.github.io/novembro2013/
+  day: 27
+  month: Novembro
+  year: 2013
+  past: true
+
+- url: http://geeknightrecife.github.io/outubro2013/
+  day: 30
+  month: Outubro
+  year: 2013
+  past: true
+
+- url: http://geeknightrecife.github.io/setembro2013/
+  day: 26
+  month: Setembro
+  year: 2013
+  past: true
+
+- url: http://geeknightrecife.github.io/agosto2013/
+  day: 29
+  month: Agosto
+  year: 2013
+  past: true
+
+- url: http://geeknightrecife.github.io/julho2013/
+  day: 24
+  month: Julho
+  year: 2013
+  past: true

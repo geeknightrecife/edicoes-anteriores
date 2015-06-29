@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geek Night Recife</title>
+    <description>Geek Night Recife é um evento que reúne geeks (ou não) interessados em testar e conversar sobre tecnologia</description>
+    <link>http://geeknightrecife.github.io//</link>
+    <atom:link href="http://geeknightrecife.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>DevOps e Entrega contínua com Danilo Sato</title>
+        <description>&lt;p&gt;Para quem perdeu a apresentação do Danilo Sato ontem ou quer ver de novo os slides para relembrar o que foi dito, eles estão disponíveis aqui no &lt;a href=&quot;http://www.slideshare.net/dtsato/padroes-de-deploy-para-devops-e-entrega-continua&quot;&gt;SlideShare do Danilo&lt;/a&gt;. 
+&lt;br /&gt; &lt;/p&gt;
+
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/37330380&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%; margin-left: auto; margin-right: auto; display: block;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;
+A apresentação foi sobre Práticas de DevOps e Entrega Contínua que ajudam a aumentar a frequência de deploys em empresas, ao mesmo tempo aumentando a estabilidade e robustez dos sistemas em produção. Foram apresentados vários padrões de deploy que ajudam a diminuir os riscos ao implantar novas versões de sistemas e aplicativos em produção.&lt;/p&gt;
+
+&lt;p&gt;Quem quiser dar uma lida a mais sobre o assunto pode conferir o &lt;a href=&quot;http://www.dtsato.com/blog/&quot;&gt;blog do Danilo&lt;/a&gt; ou o livro &lt;a href=&quot;http://www.devopsnapratica.com.br/&quot;&gt;DevOps na Prática&lt;/a&gt;.
+&lt;br /&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fiquem a vontade para comentar aqui dúvidas e sugestões ou entrar em contato diretamente com Danilo pelo twitter &lt;a href=&quot;https://twitter.com/dtsato&quot;&gt;@dtsato&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Jul 2014 15:49:00 -0300</pubDate>
+        <link>http://geeknightrecife.github.io//geek/presentation/2014/07/24/devops-e-entrega-continua-com-danilo-sato/</link>
+        <guid isPermaLink="true">http://geeknightrecife.github.io//geek/presentation/2014/07/24/devops-e-entrega-continua-com-danilo-sato/</guid>
+      </item>
+    
+      <item>
+        <title>Próximo Geek Night Recife com Danilo Sato</title>
+        <description>&lt;p&gt;Tem Geek Night Recife amanhã! 
+&lt;br /&gt; 
+&lt;br /&gt;
+Dessa vez estaremos recebendo aqui na ThoughtWorks o Danilo Sato - desenvolvedor de software há mais de 12 anos, trabalha com Métodos Ágeis há dez, e é consultor da ThoughtWorks há seis anos, atuando nos mais diversos papéis: desenvolvedor, agile coach, arquiteto, DevOps, treinador e líder técnico em projetos Ruby e Java no Brasil, EUA e na Inglaterra. 
+&lt;br /&gt; 
+&lt;br /&gt; &lt;/p&gt;
+
+&lt;p&gt;A palestra vai ser sobre DevOps e Entrega contínua: Práticas de DevOps e Entrega Contínua ajudam a aumentar a frequência de deploys em empresas, ao mesmo tempo aumentando a estabilidade e robustez dos sistemas em produção. Com o foco em automação, é possível realizar vários deploys por dia, porém é comum encontrar resistência do time de operações quando se tenta colocar isso em prática. Nesta palestra apresentaremos padrões de deploy que irão ajudar a diminuir os riscos ao implantar novas versões de sistemas e aplicativos em produção, e discutir como estreitar a colaboração entre as equipes de desenvolvimento e de operações para implantar DevOps na sua empresa.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Estamos aguardando vocês aqui na ThoughtWorks.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Jul 2014 13:15:00 -0300</pubDate>
+        <link>http://geeknightrecife.github.io//geek/2014/07/22/proximo-geek-night-com-danilo-sato/</link>
+        <guid isPermaLink="true">http://geeknightrecife.github.io//geek/2014/07/22/proximo-geek-night-com-danilo-sato/</guid>
+      </item>
+    
+      <item>
+        <title>20 minutos de Sinatra em Ação</title>
+        <description>&lt;p&gt;No Geek Night de Terça-feira (01 de Julho) apresentei como fazer um &lt;strong&gt;Bolão da Copa em Sinatra em 20 minutos!&lt;/strong&gt; Espero que vocês tenham gostado e tenham ficados empolgados para tentarem sozinhos.
+&lt;br /&gt; &lt;/p&gt;
+
+&lt;p&gt;Aqui está o link do tutorial que eu criei: &lt;a href=&quot;http://bit.ly/sinatra-geeknightrecife&quot;&gt;Sinatra Geek Night Recife - Tutorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fiquem a vontade para tentar e deixar comentários aqui.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Jul 2014 18:35:00 -0300</pubDate>
+        <link>http://geeknightrecife.github.io//geek/2014/07/03/20-minutos-de-sinatra-em-acao/</link>
+        <guid isPermaLink="true">http://geeknightrecife.github.io//geek/2014/07/03/20-minutos-de-sinatra-em-acao/</guid>
+      </item>
+    
+      <item>
+        <title>Geek Night por Mulheres foi Notícia</title>
+        <description>&lt;p&gt;Nosso último Geek Night apresentado somente por mulheres foi um sucesso e virou notícia!
+&lt;br /&gt;
+&lt;br /&gt;
+O evento foi divulgado no Pernambuco.com, confira aqui a &lt;a href=&quot;http://www.pernambuco.com/app/noticia/tecnologia/45,24,46,2/2014/07/01/interna_tecnologia,513388/geek-night-oferece-debate-sobre-ti-atraves-da-experiencia-de-mulheres.shtml&quot;&gt;matéria completa&lt;/a&gt;.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/gnr-noticia.jpg&quot; alt=&quot;gnr-noticia&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Além disso, também saiu uma reportagem no &lt;a href=&quot;http://www.cbnrecife.com/noticia/encontro-debate-presenca-das-mulheres-nas-areas-de-tecnologia-da-informacao&quot;&gt;CBN Recife&lt;/a&gt;:
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/156964460&amp;amp;color=ff5500&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Não esqueça de deixar um comentário dizendo o que achou ;)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://aninhalacerda.com&quot;&gt;Ana Lacerda&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Jul 2014 17:35:00 -0300</pubDate>
+        <link>http://geeknightrecife.github.io//geek/2014/07/02/geek-night-por-mulheres-foi-noticia/</link>
+        <guid isPermaLink="true">http://geeknightrecife.github.io//geek/2014/07/02/geek-night-por-mulheres-foi-noticia/</guid>
+      </item>
+    
+      <item>
+        <title>Geek Night {por mulheres}!</title>
+        <description>&lt;p&gt;Como na última terça do mês de junho tem &lt;font color=&quot;green&quot;&gt;Jogo do Brasil&lt;/font&gt;, o Geek night Junho foi adiado para a primeira terça de julho &lt;strong&gt;(01/07)&lt;/strong&gt;.
+A novidade é que o próximo Geek Night Recife vai ser um &lt;font color=&quot;#FA5882&quot;&gt;Geek Night por mulheres&lt;/font&gt;, isso quer dizer que teremos apenas apresentacões femininas! o/
+&lt;br /&gt;
+&lt;br /&gt;
+Nós estamos confirmando as apresentações e em breve vamos divulgar tudo direitinho. Enquanto isso, anota na agenda:
+&lt;br /&gt;
+Data: &lt;strong&gt;01-julho&lt;/strong&gt; (terça)&lt;br /&gt;
+Local: &lt;a href=&quot;https://goo.gl/maps/EOmtd&quot; target=&quot;_blank&quot;&gt;ThoughtWorks Recife&lt;/a&gt;&lt;br /&gt;
+Horário: &lt;strong&gt;19h30 ~ 21h&lt;/strong&gt;
+&lt;br /&gt;&lt;br /&gt;
+Em breve mais notícias! o/
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Jun 2014 11:05:00 -0300</pubDate>
+        <link>http://geeknightrecife.github.io//geek/women/2014/06/14/geek-night-por-mulheres/</link>
+        <guid isPermaLink="true">http://geeknightrecife.github.io//geek/women/2014/06/14/geek-night-por-mulheres/</guid>
+      </item>
+    
+      <item>
+        <title>GNR 27-Maio</title>
+        <description>&lt;p&gt;De volta em 2014, o Geek Night Recife aconteceu no novo escritório da ThoughtWorks Recife e começou com uma apresentação do professor Eraldo Guerra e alguns de seus alunos sobre a &lt;a href=&quot;http://www.lifeupbrasil.com.br/&quot;&gt;LifeUp&lt;/a&gt; e as aplicações desenvolvidas por eles. Eles apresentaram o CanGame - um software para ajudar o tratamento de crianças autistas, o SpeakUp e o AtlantisAccess. Depois da apresentação rolou uma discussão muito interessante sobre os resultados que o CanGame conquistou e o professor Eraldo matou um pouco da nossa curiosidade com alguns vídeos!&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/maio/gnr-maio01.jpg&quot; alt=&quot;gnr-maio&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/maio/gnr-maio02.jpg&quot; alt=&quot;gnr-maio&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Depois do coffe break, Yelken Gonzales apresentou o VRaptor - “VRaptor: Desenvolvendo aplicações em JAVA de forma rápida e fácil”. Yelken explicou o que é um framework e como funciona a arquitetura MVC antes de mostrar como o VRaptor pode ser utilizado e fazer uma demonstração hands-on no código.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/maio/gnr-maio03.jpg&quot; alt=&quot;gnr-maio&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/maio/gnr-maio04.jpg&quot; alt=&quot;gnr-maio&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/maio/gnr-maio05.jpg&quot; alt=&quot;gnr-maio&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O primeiro GNR (Geek Night Recife) de 2014 teve mais de 20 pessoas participando \o/&lt;/p&gt;
+
+&lt;p&gt;Obrigada a todos que vieram, espero vocês no próximo!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 May 2014 18:45:00 -0300</pubDate>
+        <link>http://geeknightrecife.github.io//geek/history/event/2014/05/28/geek-night-maio/</link>
+        <guid isPermaLink="true">http://geeknightrecife.github.io//geek/history/event/2014/05/28/geek-night-maio/</guid>
+      </item>
+    
+      <item>
+        <title>Geek Night 2014!</title>
+        <description>&lt;p&gt;A boa notícia de hoje é que o Geek Night Recife está retornando das cinzas! A ideia é que volte a acontecer na última terça-feira de cada mês.&lt;/p&gt;
+
+&lt;p&gt;O primeiro de 2014 será na próxima terça &lt;strong&gt;(27-Maio)&lt;/strong&gt; a partir das &lt;strong&gt;19h30&lt;/strong&gt;, na &lt;a href=&quot;http://thoughtworks.com&quot; target=&quot;_blank&quot;&gt;ThoughtWorks&lt;/a&gt; e contará com as apresentações:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;life-up-e-aplicativos-que-ajudam-o-mundo&quot;&gt;Life Up e aplicativos que ajudam o mundo&lt;/h4&gt;
+    &lt;p&gt;Professor Eraldo Guerra e seus alunos falarão sobre a &lt;a href=&quot;http://www.lifeupbrasil.com.br/&quot; target=&quot;_blank&quot;&gt;LifeUp&lt;/a&gt; e as aplicações desenvolvidas por eles, incluindo o CanGame - um software para tratamento de crianças autistas.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;vraptor-desenvolvendo-aplicaes-em-java-de-forma-rpida-e-fcil&quot;&gt;VRaptor: Desenvolvendo aplicações em JAVA de forma rápida e fácil&lt;/h4&gt;
+    &lt;p&gt;Yelken Gonzales vai apresentar e demonstrar um poderoso framework para Java.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Estão todos convidados para retomar essa iniciativa do &lt;strong&gt;Geek Night&lt;/strong&gt;! Inscreva-se agora para o &lt;a href=&quot;http://geeknightrecife.github.io/maio2014/&quot; target=&quot;_blank&quot;&gt;Geek Night Maio&lt;/a&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 May 2014 10:20:00 -0300</pubDate>
+        <link>http://geeknightrecife.github.io//geek/update/event/2014/05/26/geek-night-2014/</link>
+        <guid isPermaLink="true">http://geeknightrecife.github.io//geek/update/event/2014/05/26/geek-night-2014/</guid>
+      </item>
+    
+  </channel>
+</rss>

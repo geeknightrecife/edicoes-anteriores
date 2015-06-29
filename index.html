@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <ul class="posts">
+    {% for post in site.posts %}
+         <div class="post clear">
+              <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+              <span class="post-author">Postado por: <a href="{{post.author_link}}">{{post.author}}</a></span>
+               <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+               {% if post.content contains '<!--more-->' %}
+                         {{ post.content | split:'<!--more-->' | first }}
+                         <a href="{{ post.url | prepend: site.baseurl }}">{{ 'Continuar lendo...' }}</a><br/>
+               {% else %}
+                         {{ post.content }}
+               {% endif %}
+          </div>
+    {% endfor %}
+  </ul>
+</div>

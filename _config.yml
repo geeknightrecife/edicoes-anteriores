@@ -1,0 +1,12 @@
+# Site settings
+title: Geek Night Recife
+email: geeknightrecife@gmail.com
+description: "Geek Night Recife é um evento que reúne geeks (ou não) interessados em testar e conversar sobre tecnologia"
+baseurl: ""
+url: "http://geeknightrecife.github.io/"
+username: geeknightrecife
+pages: about other
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Geek Night 2014!"
+date:   2014-05-26 10:20
+categories: geek update event
+author: Ana Lacerda
+author_link: http://github.com/aninhalacerda
+---
+
+A boa notícia de hoje é que o Geek Night Recife está retornando das cinzas! A ideia é que volte a acontecer na última terça-feira de cada mês.
+
+O primeiro de 2014 será na próxima terça **(27-Maio)** a partir das **19h30**, na [ThoughtWorks](http://thoughtworks.com){:target="_blank"} e contará com as apresentações:
+
+* #### Life Up e aplicativos que ajudam o mundo
+Professor Eraldo Guerra e seus alunos falarão sobre a [LifeUp](http://www.lifeupbrasil.com.br/){:target="_blank"} e as aplicações desenvolvidas por eles, incluindo o CanGame - um software para tratamento de crianças autistas.
+
+* #### VRaptor: Desenvolvendo aplicações em JAVA de forma rápida e fácil
+Yelken Gonzales vai apresentar e demonstrar um poderoso framework para Java.
+
+
+Estão todos convidados para retomar essa iniciativa do **Geek Night**! Inscreva-se agora para o [Geek Night Maio](http://geeknightrecife.github.io/maio2014/){:target="_blank"}!
